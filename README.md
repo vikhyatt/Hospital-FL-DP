@@ -1,1 +1,1 @@
-This Repository Contains training scripts for FL and DP approaches applied to ECG Datasets used in the paper "Federated Learning and Differential Privacy Techniques on Multi-hospital Population-scale Electrocardiogram Data".
+This Repository Contains training scripts for FL and DP approaches applied to ECG Datasets used in the paper "Federated Learning and Differential Privacy Techniques on Multi-hospital Population-scale Electrocardiogram Data". Accepted to the International Conference of Medical and Health Informatics (ICMHI) 2024. 
